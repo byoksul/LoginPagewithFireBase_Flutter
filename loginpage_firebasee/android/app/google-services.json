@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "326252518076",
+    "project_id": "loginpage-d1c4b",
+    "storage_bucket": "loginpage-d1c4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326252518076:android:c8f40253dbb5e636db8eb9",
+        "android_client_info": {
+          "package_name": "com.example.loginpage_firebasee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326252518076-dn5c1mq5nhb4m0fsfo41sli529qb23v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvSOLp-S9c5zOu1BRKn3XaLKzokB0ZvCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326252518076-dn5c1mq5nhb4m0fsfo41sli529qb23v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
