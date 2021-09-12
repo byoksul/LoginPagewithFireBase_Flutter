@@ -1,6 +1,6 @@
 {
-    "name": "background_service",
-    "short_name": "background_service",
+    "name": "bug",
+    "short_name": "bug",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
